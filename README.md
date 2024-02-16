@@ -5,8 +5,9 @@ Generated with ❤️ from B.sandhya
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
-- It uses [Tailwind CSS](https://tailwindcss.com/)
 - The application is generated in JavaScript.
+- It uses [ReactJs](https://reactjs.com/)
+- It uses [Tailwind CSS](https://tailwindcss.com/)
 
 ## Pre-requisites
 
