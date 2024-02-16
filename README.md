@@ -11,7 +11,7 @@ Generated with ❤️ from B.sandhya
 ## Pre-requisites
 
 - [git](https://git-scm.com/) - v2.13 or greater
-- [reactJS](https://reactjs.org/en/) -v16 or greater
+- [ReactJS](https://reactjs.org/en/) -v16 or greater
 - [NodeJS](https://nodejs.org/en/) - v16 or greater
 - [npm](https://www.npmjs.com/) - v6 or greater
 
