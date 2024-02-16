@@ -1,6 +1,6 @@
 ## b_s_application3
 
-Generated with ❤️ from B.sandhya
+Generated with ❤️ by B.sandhya(me)
 
 ## Description
 
